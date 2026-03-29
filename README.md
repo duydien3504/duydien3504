@@ -1,6 +1,7 @@
 # Hi there, I'm Hong Duy Dien! 👋
 
 **Software Tester Intern**
+
 Final-year Software Technology student at Ho Chi Minh University of Technology.
 
 - 🛠 **Automation:** Playwright (Java), Selenium, TestNG 
