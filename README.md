@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Hong Duy Dien! 👋
 
-<!--
-**duydien3504/duydien3504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Tester Intern**
+Final-year Software Technology student at Ho Chi Minh University of Technology.
 
-Here are some ideas to get you started:
+- 🛠 **Automation:** Playwright (Java), Selenium, TestNG 
+- 🔌 **API Testing:** Postman, Playwright API
+- 📊 **Manual:** Test Case Design, Bug Reporting (Jira), SDLC/STLC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Top Projects
+
+#### 🏠 [Testing AirBnB (E2E)](https://github.com/duydien3504/TestingAirBnB.git)
+* **Tech:** Playwright (Java), TestNG, POM.
+* **Outcome:** Automated 20+ critical flows (Auth, Search filters).
+
+#### 🔐 [Recruitment API Testing](https://github.com/duydien3504/TestingAPI_Recruitment.git)
+* **Tech:** Playwright (Java), TestNG, SOM Pattern.
+* **Outcome:** Automated 48 test cases for JWT Auth & Job Search.
+
+#### 🏥 [Insove Medical (Manual)](https://docs.google.com/spreadsheets/d/1ThdsrU5IQpOATVt87p700x_GqL3WfW8B)
+* **Outcome:** Designed 195+ test cases & logged 66 bugs via Jira.
+
+---
+
+### 📫 Contact
+- **Email:** [duydien3504@gmail.com](mailto:duydien3504@gmail.com)
+- **Phone:** +84 963 379 951
